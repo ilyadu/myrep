@@ -1,0 +1,3 @@
+[submodule "my_subway"]
+	path = my_subway
+	url = https://github.com/ilyadu/subway.git
